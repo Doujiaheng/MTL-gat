@@ -4,5 +4,5 @@
 data is available at https://cloud.tsinghua.edu.cn/d/84a9c1ff71534a69b4d5/
 ```
 python train.py
-python test.py
+
 ```
